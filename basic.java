@@ -1,16 +1,17 @@
 public class Hello {
+
+        String a;
+        int b;
+
     public static void main(String[] args)
     {
-        System.out.println("Hello world!");
-        System.out.println("My name is sajib");
-        System.out.println("My name is sajib");
-        int myfirst =123;
-        System.out.println(myfirst);
-        int a=90;
-        int b=123;
-        int c=89;
-        int sum=a+b+c;
-        System.out.println(sum);
+          Hello h1=new Hello()
+          h1.a="Rahman";
+          h1.b=18;
+          
+          System.out.println(a);
+          System.out.println(b);
+
 
     }
 }
