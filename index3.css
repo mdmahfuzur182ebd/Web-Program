@@ -1,8 +1,6 @@
-#wrapper{
-    color:blue;
-    width: 700px;
-    height: 200px;
-    border: 1px solid goldenrod;
-    overflow: scroll;
-    
+#wrapper span{
+   background-color: goldenrod;
+    color:#fff;
+    display: block;
+
 }
