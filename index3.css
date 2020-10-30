@@ -3,8 +3,12 @@
     height: 200px;
     background-color:blue;
     margin: 0 auto;
+    transition: all 3s;
 }
 
 .block1:hover {
     background-color: red;
+    width: 250px;
+    height: 300px;
+    transform: skew(360deg);
 }
