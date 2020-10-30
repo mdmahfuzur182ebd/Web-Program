@@ -1,6 +1,8 @@
-#wrapper >p{
+#wrapper{
     color:blue;
-}
-#wrapper div p{
-    color: red;
+    width: 700px;
+    height: 200px;
+    border: 1px solid goldenrod;
+    overflow: scroll;
+    
 }
