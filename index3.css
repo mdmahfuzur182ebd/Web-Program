@@ -3,6 +3,8 @@
     background-color:greenyellow;
     width: 100px;
     height: 100px;
+    margin-bottom: 12px;
+    padding: 20px;
 }
 
 .div2{
@@ -10,4 +12,5 @@
     background-color: red;
     width: 100px;
     height: 100px;
+    padding: 30px;
 }
