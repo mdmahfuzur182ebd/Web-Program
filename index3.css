@@ -1,13 +1,10 @@
-#div1{
+.block1 {
     width: 200px;
-    height: 100px;
+    height: 200px;
     background-color:blue;
-    float: left;
+    margin: 0 auto;
 }
 
-#div2 {
-    width: 200px;
-    height: 100px;
+.block1:hover {
     background-color: red;
-    float: left;
 }
