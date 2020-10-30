@@ -1,5 +1,25 @@
 table{
-    width: 400px;
-  
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #ddd;
+    
 
+}
+
+table, th, td{
+    border-collapse:collapse;
+    border: 2px solid red;
+}
+.caption{
+    background-color: green;
+}
+
+.total{
+    text-align: left;
+}
+
+#sajib{
+    background-color: greenyellow;
 }
