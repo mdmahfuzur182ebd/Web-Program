@@ -1,6 +1,13 @@
-#wrapper span{
-   background-color: goldenrod;
-    color:#fff;
-    display: block;
+#div1{
+    width: 200px;
+    height: 100px;
+    background-color:blue;
+    float: left;
+}
 
+#div2 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    float: left;
 }
