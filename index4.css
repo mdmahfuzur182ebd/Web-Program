@@ -1,4 +1,3 @@
-.wrapper{
-    background: url(img/nature1.jpg) no-repeat;
-    background-attachment: fixed;
+::placeholder{
+    color: #00ffff;
 }
