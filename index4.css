@@ -1,16 +1,4 @@
-.wrap{
-    list-style-type: none;
-   
-   
-
+.wrapper{
+    background: url(img/nature1.jpg) no-repeat;
+    background-attachment: fixed;
 }
-/*
-.wrap li{
-    float: left;
-    margin-right: 2px;
-    padding: 10px;
-     background-color: green;
-     position: relative;
-     color: yellow;
-}
-*/
