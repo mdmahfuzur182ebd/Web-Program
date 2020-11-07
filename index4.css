@@ -1,0 +1,14 @@
+.wrap{
+    list-style-type: none;
+   
+   
+
+}
+.wrap li{
+    float: left;
+    margin-right: 2px;
+    padding: 10px;
+     background-color: green;
+     position: relative;
+     color: yellow;
+}
